@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Daily Message
  * Description: Allows the admin to input a daily message which will be displayed on the home page.
- * Version: 1.0
+ * Version: 1.1
  * Author: Your Name
  * Update URI: https://github.com/your-github-username/your-repo
  */
